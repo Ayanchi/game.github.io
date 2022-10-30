@@ -7,8 +7,8 @@ let pipeUp = new Image;
 let pipeButton = new Image; 
 let road = new Image;
 
-bird.src = 'diss/bird.png';
-back.src = 'diss/bg.png';
+bird.src = 'https://itproger.com/img/news/flappy_bird_bird.png';
+back.src = 'https://itproger.com/img/news/flappy_bird_bg.png';
 pipeUp.src = 'https://itproger.com/img/news/flappy_bird_pipeUp.png';
 pipeButton.src = 'https://itproger.com/img/news/flappy_bird_pipeBottom.png';
 road.src = 'https://itproger.com/img/news/flappy_bird_fg.png';
